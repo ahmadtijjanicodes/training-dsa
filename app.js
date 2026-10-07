@@ -1,14 +1,6 @@
 const names = [
   "Alex", "Avery", "Bailey", "Blake", "Casey",
   "Charlie", "Drew", "Elliot", "Emerson", "Finley",
-  "Harper", "Hayden", "Jamie", "Jordan", "Kai",
-  "Logan", "Morgan", "Parker", "Quinn", "Reese",
-  "Riley", "Robin", "Rowan", "Sam", "Sawyer",
-  "Skyler", "Taylor", "Aiden", "Amara", "Chloe",
-  "Daniel", "Elena", "Ethan", "Fatima", "Grace",
-  "Hana", "Isaac", "Jamal", "Leah", "Liam",
-  "Maya", "Noah", "Olivia", "Priya", "Sofia",
-  "Theo", "Victor", "Willow", "Yuki", "Zara",
 ];
 
 function greetRandomNames(count = 50) {
